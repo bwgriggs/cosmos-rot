@@ -1,5 +1,5 @@
 {
-  "version": 1755378501,
+  "version": 1755378665,
   "podcasts": [
     {
       "title": "The Last Word with Lawrence O’Donnell",
@@ -20,11 +20,6 @@
       "title": "All In with Chris Hayes",
       "image": "https://image.simplecastcdn.com/images/8ba89b80-a681-4cd2-87bd-79a6315b0474/d28ca110-f055-4004-b8de-0e8f7884b533/3000x3000/all-in-showcast-1x1.jpg?aid=rss_feed",
       "link": "https://podcastfeeds.nbcnews.com/K5Wu8vub"
-    },
-    {
-      "title": "The 11th Hour with Stephanie Ruhle",
-      "image": "https://image.simplecastcdn.com/images/8ba89b80-a681-4cd2-87bd-79a6315b0474/ed884eb2-eca7-4310-aec8-c4f897fd741c/3000x3000/11th-hour-showcast-1x1.jpg?aid=rss_feed",
-      "link": "https://podcastfeeds.nbcnews.com/0j_7K9RB"
     }
   ]
 }
